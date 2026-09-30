@@ -3,9 +3,10 @@
 
 # Mr.py-s-Monday
 
-Newsletter on Linkedin! 
+<a href="https://www.linkedin.com/pulse/le-avventure-di-mrpy-giorgio-antonelli--sxu0e/?trackingId=Vf%2BFVpabTzOVV3jvlvw6cg%3D%3D" target="_blank">
+  <img src="https://img.shields.io/badge/Newsletter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Newsletter on LinkedIn" />
+</a>
 
-(https://www.linkedin.com/pulse/le-avventure-di-mrpy-giorgio-antonelli--sxu0e/?trackingId=Vf%2BFVpabTzOVV3jvlvw6cg%3D%3D)
 
 Mr.py is your average employee: a bit funny, a bit of a nerd. His Mondays are always tragicomic—the kind of stuff you’d find in a joke book. Curious and clumsy, he is an urban jungle hero who challenges the laws of gravity in his budget hatchback just to get to work on time.
 
