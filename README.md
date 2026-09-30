@@ -1,3 +1,6 @@
+![Mr.py](https://github.com/GiorgioAntonelli94/Mr.py-s-Monday/blob/5ec82270de0368f1a2da95f1f1fbd0b6242b4ccf/Mr.py%20copertina.jpeg) 
+
+
 # Mr.py-s-Monday
 
 Newsletter on Linkedin! 
