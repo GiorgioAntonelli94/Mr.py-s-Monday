@@ -4,21 +4,20 @@ Newsletter on Linkedin!
 
 (https://www.linkedin.com/pulse/le-avventure-di-mrpy-giorgio-antonelli--sxu0e/?trackingId=Vf%2BFVpabTzOVV3jvlvw6cg%3D%3D)
 
+Mr.py is your average employee: a bit funny, a bit of a nerd. His Mondays are always tragicomic—the kind of stuff you’d find in a joke book. Curious and clumsy, he is an urban jungle hero who challenges the laws of gravity in his budget hatchback just to get to work on time.
 
-Mr.py è un impiegato medio: un po' buffo, un po' Nerd. Il suo lunedì è sempre tragicomico o un aneddoto per un libro di barzellette. Curioso e imbranato è un eroe della giungla urbana che con la sua utilitaria presa in un discount, sfida le leggi della gravità per arrivare in orario a lavoro.
+Passionate about books, gaming, and tech, he doesn't get up at 5 AM to be "productive"—he’s exhausted and relies on coffee to bring himself back to life.
 
-Appassionato di libri, giochi e tecnologia, al mattino non si alza alle 5 per essere produttivo è stanco e cerca di animarsi con un caffè.
+Whether blissfully ignorant or perhaps all too aware of the endless squabbles between ATS, AI, Substack, HR, applicants, and CEOs, Mr.py keeps chugging along. But unlike Fantozzi, he doesn't just passively endure: somehow, he persists. He survives.
 
-Ignaro o forse troppo consapevole delle diatribe fra ATS, AI, Substack, HR candidati e Ceo. Mr.py tira avanti. Ma non subisce come Fantozzi, in qualche modo persiste, sopravvive.
+This newsletter tells the story of his heroic exploits.
 
-Questa newsletter narra le sue eroiche imprese.
+".py" stands for Python (as in Monty Python), Pynchon, and Pyroblast—a two-letter thread connecting technology, hobbies, and downtime to help survive the week.
 
-.py perché Python (Monty Python), Pynchon e Pyroblast sono un filo rosso di due lettere che lega tecnologia, interessi e tempo libero per sopravvivere alla settimana.
+Monday is that rift in reality where the wonderful flow of the weekend gets shattered, dragging us back to work-time: the time of plowing fields under the scorching sun (a bit biblical like that...).
 
-Il lunedì è quella spaccatura del reale in cui il flusso meraviglioso del weekend viene interrotto & ci riporta al tempo del lavoro: Il tempo dell’aratura dei campi sotto il sole (così… un po' biblico)
+And since there are already far too many wise, erudite newsletters explaining how to build a V-2 rocket or how to program your house slippers in Python, I didn't see the point in boring you any further.
 
-E dato che di newsletter sagge e dotte, in cui viene spiegato come realizzare un razzo V-2 o come programmare in Python le proprie ciabatte ce ne sono già fin troppe non mi sembrava il caso di tediarvi ulteriormente.
+Here, we play FOR FUN following the adventures of Mr.py.
 
-Qui si gioca For FUN seguendo le avventure di Mr.py.
-
-Lasciamo ai dotti delle accademie virtuali il compito di fare pastorali e dilettiamoci a counterare le spell avversarie con una Pyroblast!
+Let’s leave the preachiness to the scholars of the virtual academies and stick to countering enemy spells with a Pyroblast!
